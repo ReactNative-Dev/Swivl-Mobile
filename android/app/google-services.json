@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "775868879551",
+    "firebase_url": "https://swivlstudio.firebaseio.com",
+    "project_id": "swivlstudio",
+    "storage_bucket": "swivlstudio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775868879551:android:552c751dd09e6929",
+        "android_client_info": {
+          "package_name": "studio.swivl.swivlstudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775868879551-927f52dqmlpsot37er0nc2hmftm9lrjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS2NRrxSMRyLDLdGBuUE36sP_Uekyob6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775868879551-927f52dqmlpsot37er0nc2hmftm9lrjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
